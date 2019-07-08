@@ -18,7 +18,7 @@
   "dependencies": {
     "@types/command-line-args": "^5.0.0",
     "@types/command-line-usage": "^5.0.1",
-    "@types/lodash": "^4.14.116",
+    "@types/lodash": "^4.14.136",
     "command-line-args": "^5.0.2",
     "command-line-usage": "^5.0.5",
     "lodash": "^4.17.10",
