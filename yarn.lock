@@ -52,9 +52,10 @@
   resolved "https://registry.yarnpkg.com/@types/strip-json-comments/-/strip-json-comments-0.0.30.tgz#9aa30c04db212a9a0649d6ae6fd50accc40748a1"
   integrity sha512-7NQmHra/JILCd1QqpSzl8+mJRc8ZHz3uDm8YV1Ks9IhK0epEiTw8aIErbvH9PI+6XbqhyIQy3462nEsn7UVzjQ==
 
-"@types/tape@^4.2.32":
-  version "4.2.32"
-  resolved "https://registry.yarnpkg.com/@types/tape/-/tape-4.2.32.tgz#1188330d22c4e822648c344faa070277737982d9"
+"@types/tape@^4.2.34":
+  version "4.2.34"
+  resolved "https://registry.yarnpkg.com/@types/tape/-/tape-4.2.34.tgz#008459b661a239eb7de81b417e5d104a352994e4"
+  integrity sha512-d3mILzYSlsPEALCiDYkRnkiYN4cl62dkaCg00Uql/FShIvdMOBFGtjP0N/cm0aCXwaAPVBS5weD4ciHAD8RtsA==
   dependencies:
     "@types/node" "*"
 
